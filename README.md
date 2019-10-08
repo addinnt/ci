@@ -1,2 +1,2 @@
 # ci
-tugas ci desian web lanjut
+tugas ci desain web lanjut
